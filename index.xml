@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello, you! on Shubham Sharma</title>
+    <link>https://shsharma14.github.io/portfolio/</link>
+    <description>Recent content in Hello, you! on Shubham Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Dec 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://shsharma14.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Credit Card Fraud Detection</title>
+      <link>https://shsharma14.github.io/portfolio/post/credit_card/</link>
+      <pubDate>Fri, 17 Dec 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://shsharma14.github.io/portfolio/post/credit_card/</guid>
+      <description>Consumers in 2020 reported losing over $3.3 billion to fraud, an increase of $1.5 billion over the amount reported in 2019. Worldwide, businesses are expected to lose $75 billion to e-commerce fraud from 2019 to 2023. In 2019, the U.S. accounted for 33.57 percent of all gross card fraud losses worldwide.
+Credit card fraud represented the second most commonly reported type of identity theft in 2020. In 2020, credit cards were most frequently identified as the payment method in fraud reports.</description>
+    </item>
+    
+    <item>
+      <title>COVID 19: Patient Pre-Condition Analysis</title>
+      <link>https://shsharma14.github.io/portfolio/post/covid/</link>
+      <pubDate>Wed, 15 Dec 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://shsharma14.github.io/portfolio/post/covid/</guid>
+      <description>A health crisis of massive proportions such as the current COVID-19 pandemic provides us with an opportunity to ponder and reflect over what we can do better in the way we deal with healthcare to make us humans be more prepared and enabled to combat such an event in the future.
+During the entire course of the pandemic, one of the main problems that healthcare providers have faced is the shortage of medical resources and a proper plan to efficiently distribute them.</description>
+    </item>
+    
+    <item>
+      <title>Hotel Booking analysis</title>
+      <link>https://shsharma14.github.io/portfolio/post/hotel_booking/</link>
+      <pubDate>Thu, 20 May 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://shsharma14.github.io/portfolio/post/hotel_booking/</guid>
+      <description>The main idea behind this project is to optimize product price and availability for maximum revenue. So, basically the goal is to increase the average daily revenue of a hotel by selling the right product via the right distribution channel, for a reasonable price to a customer.
+I analyzed a hotel dataset that consisted of around 120k bookings, with details related to bookings, customer, length of stay, travel agents, distribution channels.</description>
+    </item>
+    
+    <item>
+      <title>Football Database</title>
+      <link>https://shsharma14.github.io/portfolio/post/football_database/</link>
+      <pubDate>Mon, 18 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://shsharma14.github.io/portfolio/post/football_database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vaccination Rates analysis to maximize coverage</title>
+      <link>https://shsharma14.github.io/portfolio/post/vaccination_rates/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://shsharma14.github.io/portfolio/post/vaccination_rates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://shsharma14.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shsharma14.github.io/portfolio/contact/</guid>
+      <description>You can reach me via email: shsharma@syr.edu</description>
+    </item>
+    
+  </channel>
+</rss>

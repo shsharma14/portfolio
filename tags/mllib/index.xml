@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MLlib on Shubham Sharma</title>
+    <link>https://shsharma14.github.io/portfolio/tags/mllib/</link>
+    <description>Recent content in MLlib on Shubham Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Dec 2021 11:25:05 -0400</lastBuildDate><atom:link href="https://shsharma14.github.io/portfolio/tags/mllib/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Credit Card Fraud Detection</title>
+      <link>https://shsharma14.github.io/portfolio/post/credit_card/</link>
+      <pubDate>Fri, 17 Dec 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://shsharma14.github.io/portfolio/post/credit_card/</guid>
+      <description>Consumers in 2020 reported losing over $3.3 billion to fraud, an increase of $1.5 billion over the amount reported in 2019. Worldwide, businesses are expected to lose $75 billion to e-commerce fraud from 2019 to 2023. In 2019, the U.S. accounted for 33.57 percent of all gross card fraud losses worldwide.
+Credit card fraud represented the second most commonly reported type of identity theft in 2020. In 2020, credit cards were most frequently identified as the payment method in fraud reports.</description>
+    </item>
+    
+  </channel>
+</rss>

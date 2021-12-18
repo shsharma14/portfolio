@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pandas on Shubham Sharma</title>
+    <link>https://shsharma14.github.io/portfolio/tags/pandas/</link>
+    <description>Recent content in pandas on Shubham Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Dec 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://shsharma14.github.io/portfolio/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>COVID 19: Patient Pre-Condition Analysis</title>
+      <link>https://shsharma14.github.io/portfolio/post/covid/</link>
+      <pubDate>Wed, 15 Dec 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://shsharma14.github.io/portfolio/post/covid/</guid>
+      <description>A health crisis of massive proportions such as the current COVID-19 pandemic provides us with an opportunity to ponder and reflect over what we can do better in the way we deal with healthcare to make us humans be more prepared and enabled to combat such an event in the future.
+During the entire course of the pandemic, one of the main problems that healthcare providers have faced is the shortage of medical resources and a proper plan to efficiently distribute them.</description>
+    </item>
+    
+  </channel>
+</rss>
