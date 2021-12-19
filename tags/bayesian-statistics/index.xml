@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian Statistics on Shubham Sharma</title>
+    <link>https://shsharma14.github.io/portfolio/tags/bayesian-statistics/</link>
+    <description>Recent content in Bayesian Statistics on Shubham Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 May 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://shsharma14.github.io/portfolio/tags/bayesian-statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vaccination Rates in California</title>
+      <link>https://shsharma14.github.io/portfolio/post/vaccination_rates/</link>
+      <pubDate>Tue, 18 May 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://shsharma14.github.io/portfolio/post/vaccination_rates/</guid>
+      <description>Conducted the necessary analyses of vaccination rates in California school districts and compared them to the vaccination rates in the US in the past years. Using this study, we might be able to improve the reporting rates and the vaccination rates of the districts by finding out the factors directly affecting the vaccination rate.
+ Used RStudio to perform data cleaning, data preprocessing and exploratory data analysis with the help of tidyverse.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -23,12 +23,11 @@ Credit card fraud represented the second most commonly reported type of identity
       <pubDate>Wed, 15 Dec 2021 11:14:48 -0400</pubDate>
       
       <guid>https://shsharma14.github.io/portfolio/post/covid/</guid>
-      <description>A health crisis of massive proportions such as the current COVID-19 pandemic provides us with an opportunity to ponder and reflect over what we can do better in the way we deal with healthcare to make us humans be more prepared and enabled to combat such an event in the future.
-During the entire course of the pandemic, one of the main problems that healthcare providers have faced is the shortage of medical resources and a proper plan to efficiently distribute them.</description>
+      <description>My main objective was to analyze the factors that influence mortality in patients who do not need an intensive care unit and those who do. What are the underlying comorbidities that patients are likely to test positive for COVID? Which factors influence the need for an intensive care unit? This can help with patient triage, optimal distribution of vaccinations (if needed) in countries with limited resources, or prevention in countries susceptible to the virus.</description>
     </item>
     
     <item>
-      <title>Hotel Booking analysis</title>
+      <title>Hotel Bookings Analysis</title>
       <link>https://shsharma14.github.io/portfolio/post/hotel_booking/</link>
       <pubDate>Thu, 20 May 2021 11:15:58 -0400</pubDate>
       
@@ -38,21 +37,22 @@ I analyzed a hotel dataset that consisted of around 120k bookings, with details 
     </item>
     
     <item>
-      <title>Football Database</title>
-      <link>https://shsharma14.github.io/portfolio/post/football_database/</link>
-      <pubDate>Mon, 18 May 2020 11:00:59 -0400</pubDate>
+      <title>Vaccination Rates in California</title>
+      <link>https://shsharma14.github.io/portfolio/post/vaccination_rates/</link>
+      <pubDate>Tue, 18 May 2021 11:13:32 -0400</pubDate>
       
-      <guid>https://shsharma14.github.io/portfolio/post/football_database/</guid>
-      <description></description>
+      <guid>https://shsharma14.github.io/portfolio/post/vaccination_rates/</guid>
+      <description>Conducted the necessary analyses of vaccination rates in California school districts and compared them to the vaccination rates in the US in the past years. Using this study, we might be able to improve the reporting rates and the vaccination rates of the districts by finding out the factors directly affecting the vaccination rate.
+ Used RStudio to perform data cleaning, data preprocessing and exploratory data analysis with the help of tidyverse.</description>
     </item>
     
     <item>
-      <title>Vaccination Rates analysis to maximize coverage</title>
-      <link>https://shsharma14.github.io/portfolio/post/vaccination_rates/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      <title>Football Database Management System</title>
+      <link>https://shsharma14.github.io/portfolio/post/football_database/</link>
+      <pubDate>Mon, 17 May 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://shsharma14.github.io/portfolio/post/vaccination_rates/</guid>
-      <description></description>
+      <guid>https://shsharma14.github.io/portfolio/post/football_database/</guid>
+      <description>Designed an Entity Relationship diagram &amp;amp; created a Football leagues database on Microsoft SQL Server management studio. Created views/stored procedures in MS SSMS. Built an app using Microsoft PowerApps.   Link to GitHub repository</description>
     </item>
     
   </channel>
